@@ -127,7 +127,7 @@ a {
     display: none;
 }
 iframe {
-    width: 55vh;
+    width: 85vw;
 }
 i:hover {
     color:red;
@@ -153,6 +153,7 @@ i:hover {
  }
  iframe{
     width: 25vw;
+    height: 17vw;
  }
   .inline{
     display: inline-block;
